@@ -1,1 +1,9 @@
 print("hello world")
+   git commit -m "created new file"                                                                         
+   git status                                                                                               
+   clear                                                                                                    
+   git status                                                                                               
+   git remote add origin https://github.com/vrameshreddy93-dot/devops-new-work.git                          
+   git remote set-url origin https://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@github.com/vrameshreddy93-d...
+   git push origin master                                                                                   
+   clear    
