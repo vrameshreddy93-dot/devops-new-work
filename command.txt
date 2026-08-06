@@ -3,4 +3,6 @@ print("hello world")
    git status                                                                                               
    clear                                                                  
    git push origin master                                                                                   
-   clear    
+   clear    git remote 
+   in the middle
+   of the road
